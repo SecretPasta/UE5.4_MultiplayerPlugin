@@ -1,2 +1,4 @@
-# UE5.4_MultiplayerPlugin
-The source code for a MP plugin for UE5.4 part of "Unreal Engine 5 C++ Multiplayer Shooter" course
+# Unreal Engine 5.4 Multiplayer Plugin
+The source code for the Multiplayer plugin for Unreal Engine 5.4.  
+This plugin was made as part of the "Unreal Engine 5 C++ Multiplayer Shooter" course on udemy.  
+The version used in this code is 5.4.1
